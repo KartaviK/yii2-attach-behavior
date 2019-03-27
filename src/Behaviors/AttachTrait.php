@@ -44,6 +44,6 @@ trait AttachTrait
 
     private function isValidObjectName(string $value): bool
     {
-        return !empty($value) && class_exists($value);
+        return !empty($value) && \class_exists($value);
     }
 }
