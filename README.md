@@ -1,4 +1,4 @@
-# Yii2 Attache behavior
+# Yii2 Attach behavior
 
 Behavior with restriction attach option
 
